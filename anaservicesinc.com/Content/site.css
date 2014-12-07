@@ -1,0 +1,108 @@
+/*!
+ * Start Bootstrap - Small Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+   padding: 20px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */   
+   margin-left: 50px;
+}
+
+.carousel-caption {
+    font-weight: bold;    
+    font-size:1.2em;
+}
+
+.phoneNumber { color: black;font-weight: bold; }
+    
+.logo {        
+    height:47px;        
+    color: #000;
+    clear:both;
+    position:relative;
+    left: -23px;         
+}
+
+.logo-title {
+    font-size: 30px;
+    padding:5px;
+    display:block;           
+    font-family: 'Times New Roman';
+    font-weight:bold;   
+    letter-spacing: 4px;
+}
+
+.ribbon-left {
+    background: url("/Content/Images/ribbon-left.png");  
+    width: 50px;        
+    margin-right:-50px;    
+}
+
+.ribbon-caption {
+    margin-left: auto;
+    margin-right:auto;
+    width: 100%;
+    padding-left: 100px;
+    display:block;
+    position: relative;
+    top: -10px;
+}
+
+.ribbon-bg {
+    background: url("/Content/Images/ribbon-bg.png") #fff;        
+    background-repeat: repeat-x;    
+    width: 100%;       
+    z-index: 50;       
+    margin-left:50px;     
+}
+
+.logo {    
+  margin-right: auto;
+  margin-left: auto;
+  position:relative;
+  left: -50px;
+  top: -10px;    
+}
+
+.ribbon {        
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 47px;
+    float: left;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 720px;
+  }
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .logo {
+    width: 940px;
+  }
+}
+@media (min-width: 1200px) {
+  .logo {
+    width: 1140px;
+  }
+}
+
+.main {
+    background: #fff;
+    padding-top:15px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.img-portfolio {
+    margin: 0 auto;
+}

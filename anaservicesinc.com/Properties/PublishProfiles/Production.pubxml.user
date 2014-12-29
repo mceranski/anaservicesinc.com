@@ -113,7 +113,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/03/2014 20:54:31</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>12/07/2014 15:37:21</publishTime>
+      <publishTime>12/29/2014 14:16:23</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>10/14/2014 08:18:25</publishTime>
@@ -200,7 +200,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:25</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>12/07/2014 15:53:39</publishTime>
+      <publishTime>12/29/2014 14:24:42</publishTime>
     </File>
     <File Include="Views/Home/Portfolio.cshtml">
       <publishTime>12/07/2014 15:42:06</publishTime>
@@ -212,7 +212,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:46</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>12/07/2014 15:42:55</publishTime>
+      <publishTime>12/29/2014 14:28:36</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>10/14/2014 08:18:46</publishTime>
@@ -224,7 +224,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:25</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/07/2014 15:51:52</publishTime>
+      <publishTime>12/29/2014 14:20:14</publishTime>
     </File>
   </ItemGroup>
 </Project>

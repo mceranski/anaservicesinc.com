@@ -11,49 +11,52 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/anaservicesinc.com.dll">
-      <publishTime>12/07/2014 15:46:20</publishTime>
+      <publishTime>01/02/2015 09:54:10</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>11/02/2014 19:18:52</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>10/14/2014 08:18:42</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>11/02/2014 19:18:53</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>11/02/2014 19:18:52</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>11/02/2014 19:18:53</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>10/14/2014 08:18:41</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>11/02/2014 19:18:52</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>11/02/2014 19:18:52</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>11/02/2014 19:18:52</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>11/02/2014 19:18:53</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>11/02/2014 19:18:53</publishTime>
+      <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>12/07/2014 15:23:41</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/bootstrap.css.map">
-      <publishTime>08/21/2014 09:50:09</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>10/30/2014 23:38:53</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
+    </File>
+    <File Include="Content/images/bbb.jpg">
+      <publishTime>01/02/2015 09:39:38</publishTime>
     </File>
     <File Include="Content/images/carpentry.jpg">
       <publishTime>11/02/2014 22:05:19</publishTime>
@@ -68,10 +71,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/02/2014 21:48:38</publishTime>
     </File>
     <File Include="Content/images/left-bg.png">
-      <publishTime>12/06/2014 20:51:00</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/logo.png">
-      <publishTime>12/03/2014 20:50:52</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/measuring.jpg">
       <publishTime>11/02/2014 21:46:24</publishTime>
@@ -86,61 +89,61 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/02/2014 22:01:05</publishTime>
     </File>
     <File Include="Content/images/portfolio/basement_01.jpg">
-      <publishTime>12/06/2014 22:44:09</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/portfolio/bathroom_01.jpg">
-      <publishTime>12/06/2014 22:44:17</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/portfolio/bathroom_02.jpg">
-      <publishTime>12/06/2014 22:43:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/portfolio/kitchen_01.jpg">
-      <publishTime>12/06/2014 22:43:52</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/portfolio/landscape_01.jpg">
-      <publishTime>12/06/2014 22:43:43</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/ribbon-bg.png">
-      <publishTime>12/06/2014 22:11:29</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/ribbon-left.png">
-      <publishTime>12/06/2014 22:11:24</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/images/tools.jpg">
       <publishTime>11/02/2014 21:51:15</publishTime>
     </File>
     <File Include="Content/images/white-stripe.png">
-      <publishTime>12/03/2014 20:54:31</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>12/29/2014 14:16:23</publishTime>
+      <publishTime>01/02/2015 09:37:42</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>10/14/2014 08:18:25</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>10/14/2014 08:18:25</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>11/02/2014 19:18:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>10/14/2014 08:20:40</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
       <publishTime>10/14/2014 08:18:38</publishTime>
@@ -152,46 +155,46 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:38</publishTime>
     </File>
     <File Include="Scripts/jquery-2.1.1.js">
-      <publishTime>11/02/2014 19:18:55</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery-2.1.1.min.js">
-      <publishTime>11/02/2014 19:18:55</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery-2.1.1.min.map">
-      <publishTime>11/02/2014 19:18:55</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>11/02/2014 19:18:56</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>11/02/2014 19:18:56</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>11/02/2014 19:18:58</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>11/02/2014 19:18:58</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
       <publishTime>10/14/2014 08:18:42</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.8.3.js">
-      <publishTime>11/02/2014 19:18:58</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>11/02/2014 19:18:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/respond.matchmedia.addListener.js">
-      <publishTime>11/02/2014 19:18:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/respond.matchmedia.addListener.min.js">
-      <publishTime>11/02/2014 19:18:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>11/02/2014 19:18:59</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>11/02/2014 19:18:58</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
       <publishTime>10/14/2014 08:18:25</publishTime>
@@ -200,31 +203,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:25</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>12/29/2014 14:24:42</publishTime>
+      <publishTime>01/02/2015 09:29:30</publishTime>
     </File>
     <File Include="Views/Home/Portfolio.cshtml">
-      <publishTime>12/07/2014 15:42:06</publishTime>
+      <publishTime>01/02/2015 09:36:11</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>10/14/2014 08:18:45</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Views/Shared/Lockout.cshtml">
       <publishTime>10/14/2014 08:18:46</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>12/29/2014 14:28:36</publishTime>
+      <publishTime>01/02/2015 09:54:02</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
-      <publishTime>10/14/2014 08:18:46</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Views/Web.config">
-      <publishTime>10/14/2014 08:18:25</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>10/14/2014 08:18:25</publishTime>
+      <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/29/2014 14:20:14</publishTime>
+      <publishTime>01/02/2015 09:54:16</publishTime>
     </File>
   </ItemGroup>
 </Project>

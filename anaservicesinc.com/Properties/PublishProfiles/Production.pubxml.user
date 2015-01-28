@@ -11,7 +11,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/anaservicesinc.com.dll">
-      <publishTime>01/02/2015 09:54:10</publishTime>
+      <publishTime>01/28/2015 11:48:01</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>01/02/2015 09:28:01</publishTime>
@@ -47,7 +47,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/02/2015 09:28:02</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>01/02/2015 09:28:01</publishTime>
+      <publishTime>01/28/2015 11:43:26</publishTime>
     </File>
     <File Include="Content/bootstrap.css.map">
       <publishTime>01/02/2015 09:28:01</publishTime>
@@ -116,7 +116,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/02/2015 09:28:01</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>01/02/2015 09:37:42</publishTime>
+      <publishTime>01/28/2015 11:47:03</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>01/02/2015 09:28:01</publishTime>
@@ -203,7 +203,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2014 08:18:25</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>01/02/2015 09:29:30</publishTime>
+      <publishTime>01/28/2015 11:47:38</publishTime>
     </File>
     <File Include="Views/Home/Portfolio.cshtml">
       <publishTime>01/02/2015 09:36:11</publishTime>

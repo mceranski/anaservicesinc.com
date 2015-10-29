@@ -10,24 +10,29 @@ body {
 }
 
 body {
+  font-family: 'Open Sans' !important;
   /* fallback */
-  background-color: #696969;
+  background-color: #A7A8AC;
   background-repeat: repeat-x;
 
   /* Safari 4-5, Chrome 1-9 */
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#696969), to(#808080));
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#A7A8AC), to(#808080));
 
   /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #696969, #808080);
+  background: -webkit-linear-gradient(top, #A7A8AC, #808080);
 
   /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #696969, #808080);
+  background: -moz-linear-gradient(top, #A7A8AC, #808080);
 
   /* IE 10 */
-  background: -ms-linear-gradient(top, #696969, #808080);
+  background: -ms-linear-gradient(top, #A7A8AC, #808080);
 
   /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #696969, #808080);
+  background: -o-linear-gradient(top, #A7A8AC, #808080);
+}
+
+h2 {
+    color: #045BAA !important;
 }
 
 .carousel-caption {
@@ -36,62 +41,11 @@ body {
 }
 
 .phoneNumber { color: black;font-weight: bold; }
+
+.company-logo{ float: left; margin-right: 20px; }
+.company-name { font-size: 24px; color: #A7A8AC; font-weight: bold; }
+.company-subtext{ font-size: 16px; color: #045BAA; }
     
-.logo {        
-    height:47px;        
-    color: #000;
-    clear:both;
-    position:relative;
-    left: -23px;         
-}
-
-.logo-title {
-    font-size: 36px;
-    padding:2px;
-    display:block;           
-    font-family: 'Times New Roman';
-    font-weight:bold;   
-    letter-spacing: 4px;
-}
-
-.ribbon-left {
-    background: url("/Content/Images/ribbon-left.png");  
-    width: 50px;        
-    margin-right:-50px;    
-}
-
-.ribbon-caption {
-    margin-left: auto;
-    margin-right:auto;
-    width: 100%;
-    padding-left: 100px;
-    display:block;
-    position: relative;
-    top: -10px;
-}
-
-.ribbon-bg {
-    background: url("/Content/Images/ribbon-bg.png") #fff;        
-    background-repeat: repeat-x;    
-    width: 100%;       
-    z-index: 50;       
-    margin-left:50px;     
-}
-
-.logo {    
-  margin-right: auto;
-  margin-left: auto;
-  position:relative;
-  left: -50px;
-  top: -10px;    
-}
-
-.ribbon {        
-    margin-top: 10px;
-    margin-bottom: 10px;
-    height: 47px;
-    float: left;
-}
 
 @media (min-width: 768px) {
   .logo {
@@ -128,4 +82,23 @@ body {
     margin: 0 auto;
 }
 
-.navbar { margin-top: 10px; }
+.navbar {
+     margin-top: 10px;     
+}
+
+.navbar-inverse {
+    background-color: #045BAA !important;
+}
+
+.well {
+    background-color: #A7A8AC !important;
+    font-weight: bold;
+}
+
+.navbar-inverse .glyphicon {
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff !important;
+}

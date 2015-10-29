@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -120,16 +121,12 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\images\bbb.jpg" />
-    <Content Include="Content\images\left-bg.png" />
-    <Content Include="Content\images\logo.png" />
+    <Content Include="Content\images\logo_64.png" />
     <Content Include="Content\images\portfolio\basement_01.jpg" />
     <Content Include="Content\images\portfolio\bathroom_01.jpg" />
     <Content Include="Content\images\portfolio\bathroom_02.jpg" />
     <Content Include="Content\images\portfolio\kitchen_01.jpg" />
     <Content Include="Content\images\portfolio\landscape_01.jpg" />
-    <Content Include="Content\images\ribbon-bg.png" />
-    <Content Include="Content\images\ribbon-left.png" />
-    <Content Include="Content\images\white-stripe.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

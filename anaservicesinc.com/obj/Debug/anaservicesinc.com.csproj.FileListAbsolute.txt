@@ -73,6 +73,6 @@ C:\Code\anaservicesinc.com\anaservicesinc.com\bin\System.Web.WebPages.xml
 C:\Code\anaservicesinc.com\anaservicesinc.com\bin\System.Web.WebPages.Deployment.xml
 C:\Code\anaservicesinc.com\anaservicesinc.com\bin\System.Web.WebPages.Razor.xml
 C:\Code\anaservicesinc.com\anaservicesinc.com\bin\System.Web.Optimization.xml
-C:\Code\anaservicesinc.com\anaservicesinc.com\obj\Debug\anaservicesinc.com.csprojResolveAssemblyReference.cache
 C:\Code\anaservicesinc.com\anaservicesinc.com\obj\Debug\anaservicesinc.com.dll
 C:\Code\anaservicesinc.com\anaservicesinc.com\obj\Debug\anaservicesinc.com.pdb
+C:\Code\anaservicesinc.com\anaservicesinc.com\obj\Debug\anaservicesinc.com.csprojResolveAssemblyReference.cache

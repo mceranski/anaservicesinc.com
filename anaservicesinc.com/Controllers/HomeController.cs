@@ -6,10 +6,12 @@ namespace anaservicesinc.com.Controllers {
             return View();
         }
 
-        public ActionResult Portfolio() {
-            ViewBag.Message = "Your application description page.";
-
+        public ActionResult Portfolio() {            
             return View();
         }
+
+        public ActionResult Services() {
+            return View();
+        }        
     }
 }

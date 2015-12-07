@@ -14,9 +14,17 @@
 <body>
     <div class="container main">
         <div class="navbar">
-            <img class="company-logo" src="/Content/images/logo_64.png"/>
-            <div class="company-name">ANA Construction</div>
-            <div class="company-subtext">Services, Inc.</div>
+            <div class="navbar-left" style="width: 300px">
+                <img class="company-logo" src="/Content/images/logo_64.png"/>
+                <div class="company-name">ANA Construction</div>
+                <div class="company-subtext">Services, Inc.</div>
+            </div>
+         
+            <div class="navbar-right hidden-xs">
+                <a href="https://www.facebook.com/ANAConstructionServicesInc/" target="_blank" title="Visit our Facebook page!">
+                    <img src="/Content/images/facebook.png" alt="Facebook" style="padding-right: 15px;"/>
+                </a>
+            </div>        
         </div>
 
         <nav class="navbar navbar-inverse navbar-default" role="navigation">
@@ -44,13 +52,6 @@
     </div>
 
     <div class="container main">
-        <div class="alert alert-success" role="alert">
-            <div class="a2a_kit a2a_default_style" style="float: left">
-                <a class="a2a_button_facebook_like" data-action="like" data-layout="button_count" data-href="https://www.facebook.com/ANA-Construction-Services-Inc-1481923068804991/" data-layout="box_count"></a>
-            </div>
-            Like our Facebook page and qualify for a chance to win a $100 Wegmans gift card!
-        </div>
-
         @RenderBody()
     </div>
 
